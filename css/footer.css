@@ -1,0 +1,17 @@
+.footer {
+    background: url(../img/footer-bgr.jpg);
+    background-size: cover;
+    padding-top: 30px;
+    padding-bottom: 30px;
+}
+
+.footer-block {
+    display: flex;
+    justify-content: center;
+}
+
+.footer-block_last {
+    padding-top: 30px;
+    padding-bottom: 30px;
+    color: white;
+}
